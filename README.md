@@ -1,6 +1,6 @@
 # Cooking-app : Liste de plats
 
-Ce projet à pour objectif de manipuler une API. L'application permet d'afficher des plats en fonction de ce que l'utilisateur tape dans la barre de recheche et elle est responsive.
+Ce projet à pour objectif de manipuler une API. L'application permet d'afficher des plats en fonction de ce que l'utilisateur tape dans la barre de recheche. Application responsive.
 
 API : [API Meals](https://www.themealdb.com/api/json/v1/1/search.php?s=)
 
