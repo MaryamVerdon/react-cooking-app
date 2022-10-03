@@ -1,3 +1,27 @@
+# Cooking-app : Liste de plats
+
+Ce projet à pour objectif de manipuler une API. L'application permet d'afficher des plats en fonction de ce que l'utilisateur tape dans la barre de recheche et elle est responsive.
+
+API : [API Meals](https://www.themealdb.com/api/json/v1/1/search.php?s=)
+
+Technologies : `React v.18`, `Tailwind CSS`
+
+
+![cook2](https://user-images.githubusercontent.com/74917307/193666368-7c4cae9e-60f7-4f28-af7c-7b69b75558a0.PNG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
