@@ -10,14 +10,11 @@ Technologies : `React v.18`, `Tailwind CSS`
 ![cook2](https://user-images.githubusercontent.com/74917307/193666368-7c4cae9e-60f7-4f28-af7c-7b69b75558a0.PNG)
 
 
+## Démo
 
 
 
-
-
-
-
-
+https://user-images.githubusercontent.com/74917307/193668975-42e82daa-edea-4367-b7f3-ef3459a9ec4d.mp4
 
 
 
